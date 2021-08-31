@@ -1,4 +1,9 @@
- 
+ /*
+ * ESP8266 LED STRIPE for Photobooth > https://github.com/andi34/photobooth
+ * Raphael Schib (https://github.com/flighter18)
+ */
+
+
 #include <ESP8266WiFi.h>
 #include <Adafruit_NeoPixel.h>
 #ifdef __AVR__
