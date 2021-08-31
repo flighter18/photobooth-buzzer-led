@@ -1,3 +1,9 @@
+ /*
+ * BUZZER for Photobooth > https://github.com/andi34/photobooth
+ * Raphael Schib (https://github.com/flighter18)
+ */
+
+
 
 #include <Arduino.h>
 #include <SPI.h>
