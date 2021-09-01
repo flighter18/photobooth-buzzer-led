@@ -138,9 +138,9 @@ void loop() {
  
   client.println("<br><br>");
   client.println("Click <a href=\"/COUNTDOWN\">here</a> to start the countdown<br>");
-  client.println("Click <a href=\"/BACK\">here</a> to start the countdownback<br>");
-  client.println("Click <a href=\"/THREE\">here</a> to start the countdownback<br>");
-  client.println("Click <a href=\"/TWO\">here</a> to start the countdownback<br>");
+  client.println("Click <a href=\"/BACK\">here</a> to start the countdownback | BACK<br>");
+  client.println("Click <a href=\"/THREE\">here</a> to start the countdownback| THREE<br>");
+  client.println("Click <a href=\"/TWO\">here</a> to start the countdownback | TWO<br>");
   client.println("Click <a href=\"/COLLAGE\">here</a> to start collage<br>");
   client.println("Click <a href=\"/PIC\">here</a> to start pic<br>");
   client.println("</html>");
